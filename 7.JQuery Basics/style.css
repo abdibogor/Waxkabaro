@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+}
+
+#box{
+		 height: 200px;
+		 width: 200px;
+		 background: #000;
+		 margin: 0 auto;
+		 text-align: center;
+		 line-height: 200px;
+}
+
+.circle{
+		height: 200px;
+		width: 200px;
+		background: #ac3;
+		line-height: 200px;
+		border-radius: 200px;
+		margin: 40 auto;
+}
+
+button{
+		background: red;
+		color: white;
+		padding: 10px 40px;
+		font-size: 18px;
+}

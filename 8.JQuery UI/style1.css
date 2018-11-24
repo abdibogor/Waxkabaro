@@ -1,0 +1,48 @@
+.container{
+			background: #ddd;
+			margin: auto 600px;
+			text-align: center;
+		   /*  padding: 50px; */
+		   overflow: auto;
+}
+
+.box{
+	 width:  100px;
+	 height: 100px;
+}
+ 
+#box1{
+		background: red;
+		display: inline-block;
+		margin: 10px;
+		color: white;
+		line-height: 100px;
+		text-align: center;
+}
+
+#box2{
+		background: blue;
+		display: inline-block;
+		margin: 10px;
+		color: white;
+		line-height: 100px;
+		text-align: center;
+}
+
+#box3{
+		background: green;
+		display: inline-block;
+		margin: 10px;
+		color: white;
+		line-height: 100px;
+		text-align: center;
+}
+
+#box4{
+		background: black;
+		display: inline-block;
+		margin: 10px;
+		color: white;
+		line-height: 100px;
+		text-align: center;
+}

@@ -1,0 +1,33 @@
+ul{
+	width: 48%;
+	float: left;
+	margin: 0;
+	padding: 0 1%;
+	list-style: none;
+	list-style: none;
+	text-align: left;
+}
+
+ul li{
+	background: #eee;
+	margin: 0;
+	padding: 0 1%;
+	border: solid 1px #ccc;
+}
+
+ul li:hover{
+			background: #ddd;
+			border-color: #aaa;
+			cursor: pointer;
+}
+
+ul li:active{
+			background: #aaa;
+			transform: rotate(5deg);
+}
+
+.placeholderBox{
+				background: #fc3;
+				height: 20px;
+				border: dashed 2px #777;
+}
