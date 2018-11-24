@@ -1,0 +1,24 @@
+#container{
+	   margin: 100 auto;
+	   width: 500px;
+	   padding: 20px;
+	   font-family: helvetica, sans-serif;
+	   background: #fdc;
+	   box-shadow: inset 10px 10px 5px #888888, inset -10px -10px 5px #888888;
+}
+
+#container h1{
+			color: #fff;
+			text-shadow: 5px 10px 2px #93968f, -3px 6px 5px #58d1e3;
+}
+
+p{
+	column-count: 3;
+	column-gap: 20px;
+	/*
+	column-rule-style: solid;
+	column-rule-color: white;
+	column-rule-width: 10px;
+	*/
+	column-rule: solid 10px white;
+}

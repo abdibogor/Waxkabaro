@@ -1,0 +1,17 @@
+#button{
+	margin: 200px;
+	background: blue;
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+	border: solid 3px red;
+}
+
+#button:hover{
+		background-color: red;
+		color: #0f0;
+		padding: 40px;
+		border-radius: 0;
+		border: dashed 5px blue;
+		transition: all 4s; 
+}  

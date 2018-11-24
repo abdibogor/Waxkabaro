@@ -1,0 +1,19 @@
+body {
+	 background:  #6c111c;
+}
+
+ #container{
+	   margin: 100px auto;
+	   width: 500px;
+	   height: 400px;
+	   color: white;
+	   background: blue;
+ }
+ 
+#box{
+	margin: 100px auto;
+	width: 200px;
+	height: 200px;
+	/* background: linear-gradient(to left, blue, black); */
+	background: radial-gradient(green, silver, blue, red);
+}

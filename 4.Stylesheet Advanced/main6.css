@@ -1,0 +1,21 @@
+body{
+	background: #f00;
+}
+
+#container{
+		margin: 0 auto;
+		width: 600px;
+		background: #fff;
+		padding: 20px;
+}
+
+.box{
+	 background: #0bf;
+	 color: #fff;
+	 width: 200px;
+	 height: 200px;
+	 text-align: center;
+	 line-height: 200px;
+	 text-transform: uppercase;
+	 font-family: helvetica, arial, sans-serif;
+}

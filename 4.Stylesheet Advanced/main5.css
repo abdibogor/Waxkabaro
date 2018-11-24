@@ -1,0 +1,37 @@
+body{
+	background: red;
+}
+
+#container{
+	width: 600px;
+	background: white;
+	padding: 20px;
+}
+
+/*
+#image{
+	 float: left;
+}
+*/
+
+#MainColumn{
+	width: 350px;
+	float: left;
+}
+
+#sdidebar{
+	width: 250px;
+	float: right;
+}
+
+/*
+.Clear{
+	clear: both;
+} 
+*/
+
+.clearfix{
+		content: "";
+		display: table;
+		clear: both;
+}

@@ -1,0 +1,13 @@
+#box{
+	background: blue;
+	height: 200px;
+	width: 200px;
+	margin: 100px auto;
+	color: white;
+	padding: 50px;
+	box-sizing: border-box;
+	/* border-radius: 15px; */
+	border-bottom-left-radius: 100px;
+	border-top-right-radius: 100px;
+	border-bottom-right-radius: 100px;
+} 

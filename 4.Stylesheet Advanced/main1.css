@@ -1,0 +1,41 @@
+ #container{
+		width: 600px;
+		margin: 0 auto;
+ }
+ 
+ input[type="text"],
+ input[type="email"], 
+ input[type="tel"], 
+ textarea{
+		 padding: 10px;
+		 margin: 0 0 50px;
+		 display: block;
+		 border: solid 2px silver;
+		 width: 50%;
+		 font-size: 14px;
+		 color: #333;
+		 font-family: manoco "Lucida Console", Monaco, monospace;
+		 text-transform: capitalize;
+ }
+ 
+ fieldset{
+	 	   padding: 40px;
+		   border: solid 2px #996699;
+		   background-image: url('not.jpeg');
+		   border-radius: 10px;
+}
+
+fieldset legend{
+	 	background: #FFF;
+		border: solid 2px #aaa;
+		padding: 5px;
+		border-radius: 5px;
+}
+label{
+	  font-size: 20px;
+	  background: #f8adad;
+	  display: block;
+	  width: 50%;
+	  padding: 10px;
+	  border: solid 2px #f8adad;	
+}
