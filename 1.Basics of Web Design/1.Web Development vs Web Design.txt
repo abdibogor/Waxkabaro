@@ -1,0 +1,29 @@
+Definition of Web Design or Web Designer
+
+. in simple Terms Web Desinger is the architecture of a constraction.
+. They Design the website but they don't build it.
+. They Decide:
+   . the Layout of the Website.
+   . Where to put the images.
+   . the color
+   . font 
+   . and every thing else that involves the look of the website.
+   . They Mainly work with Photoshop and other graphic softwares.
+   . They are not required to know to code.
+   . Once they complete their task, They handover their work to web developper.
+
+
+	Definition of Web Development or Web developper
+
+. In simple Terms Web Developpers is the Engineer of a contraction.
+. They build the websites after they get the design from the Web Designers.
+. They are the Coders or the programmers, they work with Web programming Technologies and languages such as html, css, javascript, php etc.
+. They are responsible for making the website live and functionsing.
+
+
+Which One is better : Web Design and Development
+
+. it all depends on your choice and skills.
+. if your are creative and able or enjoy inventing beautiful layouts you go for web design.
+. if you like solving problems and enjoy writing codes | would advice you go for web development.
+. interms of salary, They are both paid nicely and there is huge demand for careers because internet is changing the whole world. and is not going to end soon.

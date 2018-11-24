@@ -1,0 +1,23 @@
+Inheritance of STyle
+
+If you give a certain style to an html element, all the children of that element will inherit that same style alse you overwrite them.
+
+for example:
+<p>I love <strong>Coding</strong>websites</p>
+if you give the color blue to p tag then strong tag will take that color through inheritance because it is a child of p.
+
+However if you define a color for strong tag then you have overwritten the inherited style blue color.
+
+Measurements in CSS
+. in css, we use measurements alot, Padding, marging, width, height, font size all use measurements
+. h1 {
+	font-size: 2.4 em;
+	width: 70%;
+	marging: 15px;
+}
+
+
+The CSS Box Model
+. CSS treats all elements as if they are in a box in the layout of a page.
+. both block & inline-level elements occopy a box.
+. all boxes have margin, padding, and borders. Block-level elements have width have width property, whereas inline-level elements do not.

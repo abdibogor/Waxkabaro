@@ -1,0 +1,43 @@
+Six Elements of Visual Design
+
+. There are 6 major Elements in web design which incloud:
+. Lines
+. Shapes
+. Color
+. Textures
+. Typography
+. Forms
+
+
+	Lines
+. Lines help define shapes
+. Divide sections
+. Create seperation
+. They normally have length and width
+
+	Shapes(Formes)
+. Self contained areas
+. Consists of lines, values, colour and textures.
+
+	Color
+. Differentiate shapes(formes) and items.
+. Add depth and emphasis(xoojinta)
+. Organize information
+
+
+	Textures(les textures)
+. Gives illusion(shucuur) of how a surface feels.
+. Used to either attract or divert(u wareeji) attention.
+. it is also used to imphasize(souligner) message.
+
+	Typography
+. Fonts
+. size
+. colour
+. spacing(espacement)
+. alignment
+	
+	Form
+. illusion of 3D objects
+. add depth(profondeur) and textures to create 3D objects
+. Used to accentuate message or provide visual appeal.

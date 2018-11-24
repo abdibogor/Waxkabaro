@@ -1,0 +1,42 @@
+What is CSS?
+
+Css stands for cascading stylesheet and is a language used to create documents
+on the web. Css is used to style of the website and how it looks.
+It works hand on hand with HTML creates the content of the web css give the look and the feel of the web.
+
+
+The Style Rule
+
+. CSS allows to specify formatting and presentation of HTML elements using Css Style Rules
+
+. H1{
+	. font-size: 18px;
+	. font-family: helvetica;
+	. color: blue;	 
+}
+
+
+The Syntax
+
+
+ Selector: selects all h1 elements
+. H1{
+	. font-size: 18px;
+	. font-family: helvetica;
+	. color: blue;	 
+} CSS styles
+
+
+Selectors , properties & Values
+
+Selector h1{
+		. font-size: 18px;
+Properites	. font-family: helvetica;   Values
+		. color: blue;
+}
+
+
+More About CSS
+.You will get more information about CSS and many of web development languages please visit
+https: //www. w3schools.com/
+

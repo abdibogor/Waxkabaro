@@ -1,0 +1,18 @@
+body {
+background-color: gray;
+}
+
+h1{
+	font-size: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: blue;
+	border: 2px dashed green;	
+}
+
+ul{
+	background-color: #60F;
+}
+
+li{
+	background-color: red;	
+}

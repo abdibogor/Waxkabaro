@@ -1,0 +1,39 @@
+/* select all */ 
+* {
+	  background: red;
+	  color: white;
+	}
+	
+	/* element selector */
+ 
+ body{
+	 	font-family: blue;
+}
+	 
+h2{
+	color: green;
+}
+
+.primaryBox{
+		background: red;
+	}
+
+#mainbody{
+	background: blue;
+	}
+	
+	/* group selector */
+	
+h2, p{
+	font-size: 25px;	
+}
+
+/* Descendant selector */
+.secondaryBox p{
+	text-transform: uppercase;
+}
+
+p.abdi::first-letter {
+    font-size: 100%;
+    color: #8A2BE2;
+}

@@ -1,0 +1,24 @@
+.borderBox{
+			background:gray;
+			margin: 25px;
+			padding: 50px;
+}
+
+#box1{
+	   background-image: url('abdi.png');
+	   background-repeat: no-repeat;
+	   background-position: center;
+}
+
+#box2{
+	  background-color: white;
+}
+
+#box3{
+	  background-image: url('images1.jpg');
+	  background-repeat: no-repeat;
+}
+
+#box4{
+	  background: red url("images2.png") bottom left repeat-y;
+}

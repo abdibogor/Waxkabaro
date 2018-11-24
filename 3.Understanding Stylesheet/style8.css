@@ -1,0 +1,27 @@
+/* unvisited link */
+a:link{
+	    text-decoration:none;
+		color:green;
+}
+	
+/* visited link */
+a:visited{
+	 color:#9932CC;
+}
+	
+	/* hover / mouse-over */
+a:hover{
+	  background: #ADD8E6;
+	  color: black;
+}
+	
+	/* active */
+a:active{
+		 background: #9370DB;
+		 color: red;
+}
+
+a:focus{
+		 background:silver;
+		 color: red;
+}

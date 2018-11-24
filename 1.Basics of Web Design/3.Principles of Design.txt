@@ -1,0 +1,41 @@
+Seven Principles of Visual Design
+
+. There are 7 major principles in web Design which incloud:
+1. Balance
+2. RHYTHM
+3. Proportion
+4. Space
+5. Dominance
+6. Hierarchy
+7. Unity
+
+
+		Balance(Équilibre)
+. Arrangement and distribution of objects to create a meaning.
+
+			
+		RHYTHM(qaafiyo)
+. Repetition of elements
+. Create flow(Samee socodka)
+. can stablish pattern and texture.(Peut établir le modèle et la texture.)
+
+		Proportion(Saamaynta)
+. Also know as "Scale"()
+. Demonstrates how each item relates in size.
+
+		Space(meel)
+. Also know as "White space"
+. used to reduce noise, clutter and increase readability
+
+		Dominance
+. The focal point(Qaybta odhaahda)
+. Achieved through size, colour , shape etc
+. used to communicate the primary message.
+
+		Hierarchy(hiérarchie)
+. Differentiates primary and Secondary focus.
+. Achieved through size, colour, and placement.
+ 
+		Unity
+. The "big picture" of the design.
+. how all elements are related or unreleted .

@@ -1,0 +1,33 @@
+Common Elements of web ANATOMY
+
+		. Header & Navigation
+- Usually horizontal along the top of the website but can also be either side.
+- It mainly contains the brand logo and the most commonly(caadi ahaan) used links.
+- Global across all pages
+
+		. call to action
+- The most important element on a webpage.
+- tells your users what they should do next.
+- Should be clear, straighforword(simple), and to the point with clear benefits.
+
+		. Primary Content
+- Highlights the main article, story message.
+- Most obvious(cad) in blogs & news websites.
+
+		. Secondary/tertiary content
+- Contents that is secondary to the main message, or article.
+- Can be a section with links to other pages or an excerpt(maqnaashaha) of the next article in the blog
+- Usually lower(inférieur) on the page or with a sidebar , or footer.
+
+		. Sidebar 
+- Located(Goobta) on the left or right side of the page, hence(Par conséquent) "sidebar".
+- it contains content that that is secondary or tertiary to the primary content, articles or messages.
+
+		. Footer
+- Located at the bottom or "foot" of the web page.
+- Contains tertiary content that is relevant but not critical(muhiim ah).
+- It usually contains social media links, privacy policy page and copy rights and some other links.
+
+
+
+

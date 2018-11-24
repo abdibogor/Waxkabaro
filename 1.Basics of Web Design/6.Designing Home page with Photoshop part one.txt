@@ -1,0 +1,7 @@
+you can visit in this website and download 
+960.js
+
+extrait in this folder
+choose template and choose 960 grid 12 column
+
+windows == actions == load actions == 

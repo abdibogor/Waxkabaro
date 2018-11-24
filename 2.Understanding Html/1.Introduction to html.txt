@@ -1,0 +1,16 @@
+What is HTML?
+HTML is the standard markup language for creating Web pages.
+ . Html stands for Hyper Text Markup Languae
+ . HTML describes the structures of web pages using markup
+ . HTML elements are the building block of HTML pages
+ . HTML elements are represented by tags.
+ . HTML tags label pieces of content such as " heading" ,"paragraph" , "table", and so on.
+
+
+Attributes
+. ATtributes provide extra information about an element and are always specified in the opening tags.
+. <p attribute="value"></p>
+
+HTML Parent / Child structure
+. it is also called parent/child relationship, where the containing element is refered to as the parent of the element contained within it.
+ 

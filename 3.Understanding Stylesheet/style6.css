@@ -1,0 +1,39 @@
+.borderBox{
+	background: #DC143C;
+ 	margin:20px;
+	padding:50px;
+	text-align:center;
+	font-size:25px;
+}
+
+#box1{
+	border: solid 1px black;
+}
+
+#box2{
+	border: dotted 2px black;
+}
+
+#box3{
+	border: dashed 3px black;
+}
+
+#box4{
+	border: ridge 4px black;
+}
+
+#box5{
+	border: inset 5px black;
+}
+
+#box6{
+	border: outside 6px black;
+}
+
+#box7{
+	border: double 7px black;
+}
+
+#box8{
+	border: solid 8px black;
+}
