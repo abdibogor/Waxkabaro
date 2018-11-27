@@ -1,0 +1,15 @@
+/*
+.background{
+			background: #eee;
+			border: solid 1px red;
+}
+*/
+
+.btn-outline-light:hover{
+				color: black;
+				border: solid 1px blue;
+}
+
+.btn-outline-light{
+				color: #555;
+}

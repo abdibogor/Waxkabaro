@@ -1,0 +1,27 @@
+html{
+	background: url("photo.jpg");
+}
+
+#container{
+	margin: 0 auto;
+	width: 960px;
+	background: #fff;
+	padding: 40px;
+	border-radius: 15px;
+}
+
+#logo{
+		width: 80px;
+		float: left;
+}
+
+.michigan{
+		  width: 960px;
+		  height: 150px;
+}
+
+header{
+	width: auto;
+	background: #333;
+	border-radius: 10px;
+}
